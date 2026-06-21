@@ -30,5 +30,5 @@
   <rect x="350" y="142" width="500" height="6" rx="3" fill="url(#neon)"/>
 
   <!-- subtitle -->
-  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#00f0ff" letter-spacing="0.5">Backend Engineer &#160;&#8226;&#160; Mobile Developer &#160;&#8226;&#160; iOS &amp; Android</text>
+  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#00f0ff" letter-spacing="0.5">Backend Engineer &#160;&#8226;&#160; Mobile Developer</text>
 </svg>
