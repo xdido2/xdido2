@@ -8,7 +8,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=210&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Backend%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%28iOS%20%26%20Android%29%20%E2%9A%A1&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="assets/header.svg" alt="Welcome to my profile — Abdurashid" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░ -->
 <a href="https://github.com/xdido2">
@@ -20,7 +20,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░  VISITORS + FOLLOW  ░░░░░░░░░░░░░░░░░░ -->
 <img src="https://komarev.com/ghpvc/?username=xdido2&label=PROFILE+VIEWS&color=ff2e97&style=for-the-badge" alt="profile views" />
 <a href="https://github.com/xdido2?tab=followers">
-  <img src="https://img.shields.io/github/followers/xdido2?label=FOLLOW&style=for-the-badge&color=00f0ff&logoColor=white&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Follow-%40xdido2-00f0ff?style=for-the-badge&logo=github&logoColor=white" alt="follow xdido2" />
 </a>
 
 <br/><br/>
@@ -126,26 +126,11 @@ class Abdurashid:
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/xdido2/xdido2/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xdido2/xdido2/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/xdido2/xdido2/output/snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 <!-- ░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
 ### ✨ Thanks for visiting — let's connect and build something great! ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer" alt="footer" />
+<img width="100%" src="assets/footer.svg" alt="" />
 
 </div>
